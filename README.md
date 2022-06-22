@@ -3,6 +3,8 @@ TEJ3M Final Project
 
 This repository is not intended to be used by others.
 
+The Tinkercad wiring screenshot does not include the nodemcu because Tinkercad doesn't have the component.
+
 ## Features
 - Password protection
 - Password change
